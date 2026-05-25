@@ -1,0 +1,38 @@
+version: 1
+
+project:
+  id: bf3710aa-aacd-4212-89df-4f1342cbce54
+  title: Hunter Carroll
+  description: Personal academic website for Hunter Carroll.
+  authors:
+    - name: Hunter Carroll
+  github: https://github.com/HUNTERJCARROLL/Hunter_Carroll_Book
+  license:
+    code: MIT
+    content: CC-BY-4.0
+  jupyter: true
+
+  toc:
+    - file: index.md
+    - file: about.md
+    - file: research.md
+    - file: projects.md
+    - file: notes.md
+    - file: cv.md
+
+  bibliography:
+    - references.bib
+
+site:
+  template: book-theme
+  title: Hunter Carroll
+  actions:
+    - title: GitHub
+      url: https://github.com/HUNTERJCARROLL
+  options:
+    logo: Images/logo.png
+    logo_text: Hunter Carroll
+    favicon: Images/favicon.png
+    numbered_references: true
+    extra_css:
+      - _static/custom.css
