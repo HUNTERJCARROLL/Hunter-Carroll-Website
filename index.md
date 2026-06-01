@@ -1,17 +1,15 @@
 # Hunter Carroll
 
-```{image} Images/Hunter_C_Headshot.jpg
+:::{image} Images/Hunter_C_Headshot.jpg
 :alt: Hunter Carroll
 :width: 220px
 :align: right
-```
+:::
 
-**Ph.D. Student in Applied Mathematics**  
+**Ph.D. Student in Applied Mathematics | Data Science Intern at Donor Alliance**  
 **University of Colorado Denver**
 
-I am interested in applied mathematics, machine learning, uncertainty quantification, numerical linear algebra, and mathematical approaches to understanding neural networks.
-
-My work focuses on the hidden states of neural networks and how tools from noncommutative algebra, operator theory, and dynamical systems may help explain how neural networks evolve internally.
+I am interested in applied mathematics, machine learning, uncertainty quantification, numerical linear algebra, and mathematical approaches to understanding neural networks. My interest directly lies in the application of such mathematical methods to astronomical data. 
 
 [GitHub](https://github.com/HUNTERJCARROLL) · [Research](research.md) · [Projects](projects.md) · [Notes](notes.md) · [CV](cv.md)
 
@@ -20,16 +18,8 @@ My work focuses on the hidden states of neural networks and how tools from nonco
 ## Research Interests
 
 ::::{grid} 2
-:::{card} Machine Learning Theory
+:::{card} Machine Learning 
 Mathematical and computational approaches to understanding neural networks.
-:::
-
-:::{card} Operator-Algebraic Methods
-Studying neural network hidden states using noncommutative algebraic structures.
-:::
-
-:::{card} Applied Analysis
-Analysis, measure theory, integration, approximation, and functional analytic tools.
 :::
 
 :::{card} Numerical Linear Algebra
