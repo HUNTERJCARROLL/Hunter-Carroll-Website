@@ -1,6 +1,6 @@
 # Hunter Carroll
 
-:::{image} Images/Hunter_C_Headshot.jpg
+:::{image} Images/Hunter_C_Headshot.jpeg
 :alt: Hunter Carroll
 :width: 220px
 :align: right
