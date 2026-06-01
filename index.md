@@ -3,7 +3,7 @@
 :::{image} Images/Hunter_C_Headshot.jpeg
 :alt: Hunter Carroll
 :width: 220px
-:align: right
+:align: center
 :::
 
 **Ph.D. Student in Applied Mathematics | Data Science Intern at Donor Alliance**  
