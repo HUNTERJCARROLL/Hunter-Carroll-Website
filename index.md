@@ -43,6 +43,8 @@ Machine learning experiments and data-driven scientific computing.
 
 A collection of mathematical notes from graduate coursework and independent study.
 :::
+:::{Donor Alliance Data Science Internship}
+My project completed at Donor Alliance for the Summer 2026 Data Science Internship.
 ::::
 
 ---
