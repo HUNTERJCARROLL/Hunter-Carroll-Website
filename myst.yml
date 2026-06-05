@@ -6,7 +6,7 @@ project:
   description: Personal academic website for Hunter Carroll.
   authors:
     - name: Hunter Carroll
-  github: https://github.com/HUNTERJCARROLL/Hunter_Carroll_Book
+  github: https://github.com/HUNTERJCARROLL/Hunter-Carroll-Website
   license:
     code: MIT
     content: CC-BY-4.0
@@ -16,12 +16,12 @@ project:
     - file: index.md
     - file: about.md
     - file: research.md
-    - title: Projects 
-      children: 
+    - title: Projects
+      children:
         - file: projects.md
         - file: Projects/Donor_Alliance.md
     - title: Notes
-      children: 
+      children:
         - file: notes.md
     - file: cv.md
 
@@ -30,7 +30,7 @@ project:
 
 site:
   template: book-theme
-  title: Hunter Carroll - Data Science Intern at Donor Alliance
+  title: Hunter Carroll
   actions:
     - title: GitHub
       url: https://github.com/HUNTERJCARROLL
