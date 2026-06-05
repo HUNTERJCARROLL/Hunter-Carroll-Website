@@ -44,7 +44,7 @@ A collection of mathematical notes from graduate coursework and independent stud
 :::
 
 :::{card} Donor Alliance Data Science Internship
-:link: projects/Donor_Alliance.md
+:link: Projects/Donor_Alliance.md
 
 My project completed at Donor Alliance for the Summer 2026 Data Science Internship.
 :::

@@ -19,8 +19,7 @@ project:
     - title: Projects 
       children: 
         - file: projects.md
-        - file: Donor_Alliance.md
-    - file: projects.md
+        - file: Projects/Donor_Alliance.md
     - title: Notes
       children: 
         - file: notes.md
