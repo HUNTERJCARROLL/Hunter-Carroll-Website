@@ -39,4 +39,3 @@ site:
     logo_text: Hunter Carroll
     favicon: Images/favicon.png
     numbered_references: true
-    style: _static/custom.css
