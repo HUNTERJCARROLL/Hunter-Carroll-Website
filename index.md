@@ -1,4 +1,4 @@
-## Hunter Carroll
+# Hunter Carroll
 
 :::{image} Images/Hunter_C_Headshot.jpeg
 :alt: Hunter Carroll
@@ -6,7 +6,9 @@
 :align: center
 :::
 
-**Ph.D. Student in Applied Mathematics University of Colorado Denver | Data Science Intern at Donor Alliance**  
+**Ph.D. Student in Applied Mathematics**  
+**University of Colorado Denver**  
+**Data Science Intern at Donor Alliance**
 
 I am interested in applied mathematics, machine learning, uncertainty quantification, numerical linear algebra, and mathematical approaches to understanding neural networks.
 
@@ -17,7 +19,7 @@ I am interested in applied mathematics, machine learning, uncertainty quantifica
 ## Research Interests
 
 ::::{grid} 2
-:::{card} Machine Learning 
+:::{card} Machine Learning
 Mathematical and computational approaches to understanding and developing neural networks.
 :::
 
