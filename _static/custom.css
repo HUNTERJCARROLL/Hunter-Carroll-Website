@@ -1,11 +1,16 @@
 /* Black and white personal website theme */
 
-:root {
-  --pst-color-primary: #111111;
-  --pst-color-secondary: #555555;
-  --pst-color-link: #111111;
-  --pst-color-link-hover: #666666;
-  --pst-color-inline-code: #222222;
+:root,
+html[data-theme="light"],
+html[data-theme="dark"] {
+  --pst-color-primary: #111111 !important;
+  --pst-color-secondary: #555555 !important;
+  --pst-color-link: #111111 !important;
+  --pst-color-link-hover: #666666 !important;
+  --pst-color-inline-code: #222222 !important;
+  --pst-color-target: #111111 !important;
+  --pst-color-accent: #111111 !important;
+  --pst-color-info: #111111 !important;
 }
 
 /* Page background */
@@ -35,13 +40,43 @@ body {
   border-right: 1px solid #dddddd;
 }
 
-/* Links */
-a {
-  color: #111111;
+/* Force all links to black/gray */
+a,
+a:visited,
+a.reference,
+a.reference:visited,
+a.external,
+a.external:visited,
+a.internal,
+a.internal:visited,
+.nav-link,
+.nav-link:visited,
+.bd-links a,
+.bd-links a:visited,
+.prev-next-area a,
+.prev-next-area a:visited {
+  color: #111111 !important;
 }
 
-a:hover {
-  color: #666666;
+a:hover,
+a.reference:hover,
+a.external:hover,
+a.internal:hover,
+.nav-link:hover,
+.bd-links a:hover,
+.prev-next-area a:hover {
+  color: #666666 !important;
+  text-decoration-color: #666666 !important;
+}
+
+/* Navbar links */
+.bd-header a,
+.bd-header a:visited,
+.bd-header .nav-link,
+.bd-header .nav-link:visited,
+.navbar-brand,
+.navbar-brand:visited {
+  color: #111111 !important;
 }
 
 /* Headings */
@@ -78,8 +113,10 @@ img[alt="Hunter Carroll"] {
   background: linear-gradient(180deg, #ffffff, #f5f5f5);
 }
 
-.sd-card-title {
-  color: #111111;
+.sd-card-title,
+.sd-card-title a,
+.sd-card-title a:visited {
+  color: #111111 !important;
   font-weight: 700;
 }
 
@@ -100,4 +137,23 @@ pre {
 footer {
   background: #ffffff;
   border-top: 1px solid #dddddd;
+}
+
+/* Extra MyST/PyData blue cleanup */
+.toctree-l1 a,
+.toctree-l2 a,
+.toctree-l3 a,
+.caption-text,
+.headerlink,
+.toc-entry a,
+.sidebar-primary-item a {
+  color: #111111 !important;
+}
+
+.toctree-l1 a:hover,
+.toctree-l2 a:hover,
+.toctree-l3 a:hover,
+.toc-entry a:hover,
+.sidebar-primary-item a:hover {
+  color: #666666 !important;
 }
