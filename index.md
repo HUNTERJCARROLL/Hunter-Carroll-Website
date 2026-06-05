@@ -1,4 +1,3 @@
-# Hunter Carroll
 
 :::{image} Images/Hunter_C_Headshot.jpeg
 :alt: Hunter Carroll
@@ -6,10 +5,9 @@
 :align: center
 :::
 
-**Ph.D. Student in Applied Mathematics | Data Science Intern at Donor Alliance**  
-**University of Colorado Denver**
+**Ph.D. Student in Applied Mathematics University of Colorado Denver | Data Science Intern at Donor Alliance**  
 
-I am interested in applied mathematics, machine learning, uncertainty quantification, numerical linear algebra, and mathematical approaches to understanding neural networks. My interest directly lies in the application of such mathematical methods to astronomical data. 
+I am interested in applied mathematics, machine learning, uncertainty quantification, numerical linear algebra, and mathematical approaches to understanding neural networks.
 
 [GitHub](https://github.com/HUNTERJCARROLL) · [Research](research.md) · [Projects](projects.md) · [Notes](notes.md) · [CV](cv.md)
 
@@ -19,7 +17,7 @@ I am interested in applied mathematics, machine learning, uncertainty quantifica
 
 ::::{grid} 2
 :::{card} Machine Learning 
-Mathematical and computational approaches to understanding neural networks.
+Mathematical and computational approaches to understanding and developing neural networks.
 :::
 
 :::{card} Numerical Linear Algebra
@@ -44,6 +42,7 @@ Machine learning experiments and data-driven scientific computing.
 A collection of mathematical notes from graduate coursework and independent study.
 :::
 :::{Donor Alliance Data Science Internship}
+:link: notes.md
 My project completed at Donor Alliance for the Summer 2026 Data Science Internship.
 ::::
 
