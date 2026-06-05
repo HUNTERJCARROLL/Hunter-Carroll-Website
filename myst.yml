@@ -16,11 +16,14 @@ project:
     - file: index.md
     - file: about.md
     - file: research.md
+    - title: Projects 
+      children: 
+        - file: projects.md
+        - file: Donor_Alliance.md
     - file: projects.md
     - title: Notes
       children: 
         - file: notes.md
-        - file: notes/Donor_Alliance.md
     - file: cv.md
 
   bibliography:

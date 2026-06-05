@@ -22,4 +22,9 @@ Notes on matrix methods, spectral theory, numerical linear algebra, and applicat
 
 Notes on machine learning theory, neural networks, and computational experiments.
 :::
+:::{card} Donor Alliance Internship
+:link: notes/Donor_Alliance.md
+
+
+:::
 ::::

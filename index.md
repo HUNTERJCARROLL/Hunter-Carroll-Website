@@ -1,3 +1,4 @@
+## Hunter Carroll
 
 :::{image} Images/Hunter_C_Headshot.jpeg
 :alt: Hunter Carroll
@@ -41,9 +42,12 @@ Machine learning experiments and data-driven scientific computing.
 
 A collection of mathematical notes from graduate coursework and independent study.
 :::
-:::{Donor Alliance Data Science Internship}
-:link: notes.md
+
+:::{card} Donor Alliance Data Science Internship
+:link: projects/Donor_Alliance.md
+
 My project completed at Donor Alliance for the Summer 2026 Data Science Internship.
+:::
 ::::
 
 ---
